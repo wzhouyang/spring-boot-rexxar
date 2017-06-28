@@ -1,0 +1,5 @@
+spring:
+  redis:
+    host: 192.168.5.101
+    port: 6379
+    test1: 'classpath:/redis/test1.lua'
